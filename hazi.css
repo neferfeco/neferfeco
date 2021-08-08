@@ -1,0 +1,46 @@
+body {
+
+	background-color: #DF9F9F;
+	color: white;
+	font-family: Verdana;	
+
+}
+
+table {
+
+	margin: auto;
+	width: 60%;
+
+}
+
+.oszlop {
+
+	width: 15%;
+
+}
+
+.kozep {
+
+	text-align: center;	
+	
+}
+
+#lablec {
+
+	text-align: right;
+	font-size: 16px;
+
+}
+
+h2 {
+
+	margin-top: 75px;
+
+}
+
+li {
+
+	margin: 15px 0;
+
+
+}
